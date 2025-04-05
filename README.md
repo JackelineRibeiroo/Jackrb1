@@ -1,5 +1,5 @@
 # Olá, sou Jackeline Ribeiro
-- 🎓 Acadêmica em Administração
+- 🎓 Acadêmicaa em Administração
 - 📊 Em transição de carreira para a área de Dados  
 - Atualmente estou me especializando em **Análise de Dados**, unindo minha formação em Administração com habilidades técnicas em ferramentas como **Excel, Power BI, SQL e Python**. Acredito no poder dos dados para transformar negócios, gerar insights e apoiar decisões estratégicas.
 
